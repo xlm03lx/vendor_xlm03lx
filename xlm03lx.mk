@@ -16,7 +16,7 @@
 
 # Bootanimation
 PRODUCT_COPY_FILES += \
-    vendorxlm03lx/prebuilt/media/bootanimation/bootanimation.zip:system/media/bootanimation.zip
+    vendor/xlm03lx/prebuilt/media/bootanimation/bootanimation.zip:system/media/bootanimation.zip
 
 # Huawei stock system Media
 PRODUCT_COPY_FILES += \
