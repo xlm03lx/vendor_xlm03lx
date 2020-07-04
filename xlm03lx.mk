@@ -30,3 +30,9 @@ PRODUCT_PACKAGES += \
     FootejCamera \
     SimpleGallery \
     Phonograph
+
+#Xperia Keyboard Metarial
+PRODUCT_PACKAGES += \
+    vendor/xlm03lx/xperiakyb/textinput-tng/XMFKB_6.apk:system/priv-app/textinput-tng/XMFKB_6.apk \
+    vendor/xlm03lx/xperiakyb/textinput-tng/lib/arm64/libswiftkeysdk-java.so:system/priv-app/textinput-tng/lib/arm64/libswiftkeysdk-java.so
+
